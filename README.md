@@ -12,7 +12,7 @@ A pastel, cake-inspired, light VS Code theme with a modern Japanese patisserie v
 
 ## 📸 Preview
 
-<img width="1512" alt="Screenshot 2025-05-20 at 14 54 59" src="https://github.com/user-attachments/assets/8b11e66c-15c9-4a67-bbbd-dddfbb50dfa0" />
+<img width="1512" alt="Screenshot 2025-05-20 at 14 55 51" src="https://github.com/user-attachments/assets/99e3e509-42cc-4db6-8374-02d72df03143" />
 
 ## 🚀 Installation
 
