@@ -25,13 +25,13 @@ A pastel, cake-inspired, light VS Code theme with a modern Japanese patisserie v
 
 ## 🎨 Palette
 
-| Name         | Color    | Example        |
-|--------------|----------|----------------|
-| Background   | #FFF1E6  | ![#FFF1E6](https://via.placeholder.com/15/FFF1E6/000000?text=+) |
-| Sidebar      | #FFE0CC  | ![#FFE0CC](https://via.placeholder.com/15/FFE0CC/000000?text=+) |
-| Rose Accent  | #F06292  | ![#F06292](https://via.placeholder.com/15/F06292/000000?text=+) |
-| Violet       | #9B59B6  | ![#9B59B6](https://via.placeholder.com/15/9B59B6/000000?text=+) |
-| Status Red   | #E57373  | ![#E57373](https://via.placeholder.com/15/E57373/000000?text=+) |
+| Name         | Color    |
+|--------------|----------|
+| Background   | #FFF1E6  |
+| Sidebar      | #FFE0CC  |
+| Rose Accent  | #F06292  |
+| Violet       | #9B59B6  |
+| Status Red   | #E57373  |
 
 ## 🧁 Inspiration
 
