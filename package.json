@@ -1,0 +1,25 @@
+{
+  "name": "purddy",
+  "displayName": "purddy",
+  "description": "This Theme is Mighty Purddy!",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AvitalTamir/Purddy-Color-Theme"
+  },
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Purddy",
+        "uiTheme": "vs",
+        "path": "./themes/Purddy-color-theme.json"
+      }
+    ]
+  }
+}
