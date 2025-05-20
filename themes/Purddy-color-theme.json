@@ -3,6 +3,9 @@
 	"colors": {
 		"statusBar.background": "#E57373",
 		"statusBar.foreground": "#5C3D2E",
+		"statusBar.noFolderBackground": "#C62828",
+		"statusBarItem.remoteBackground": "#C62828",
+		"statusBarItem.remoteForeground": "#FFFFFF",
 		"editor.background": "#FFF1E6",
 		"sideBar.background": "#FFE0CC",
 		"editor.foreground": "#5C3D2E",
@@ -27,7 +30,24 @@
 		"tab.activeBackground": "#FFF1E6",
 		"tab.inactiveBackground": "#FFE0CC",
 		"tab.unfocusedActiveBackground": "#FFF1E6",
-		"tab.unfocusedInactiveBackground": "#FFE0CC"
+		"tab.unfocusedInactiveBackground": "#FFE0CC",
+		"inputOption.activeBackground": "#F8BBD0",
+		"inputOption.activeBorder": "#E57373",
+		"extensionButton.prominentBackground": "#F06292",
+		"extensionButton.prominentHoverBackground": "#EC407A",
+		"list.hoverBackground": "#FCE4EC",
+		"activityBar.background": "#F8BBD0",
+		"activityBar.foreground": "#5C3D2E",
+		"activityBar.inactiveForeground": "#A87B6E",
+		"focusBorder": "#F06292",
+		"button.background": "#F06292",
+		"button.hoverBackground": "#EC407A",
+		"list.inactiveSelectionBackground": "#F8BBD0",
+		"list.inactiveSelectionForeground": "#5C3D2E",
+		"list.focusBackground": "#FFD1B3",
+		"input.background": "#FFF1E6",
+		"input.foreground": "#5C3D2E",
+		"input.border": "#F06292"
 	},
 	"tokenColors": [
 		{
