@@ -1,6 +1,6 @@
 ![purddy_logo_text_small](https://github.com/user-attachments/assets/96bfc675-9531-471c-abe5-21f5257504c1)
 
-# Purddy
+# purddy
 
 A pastel, cake-inspired, light VS Code theme with a modern Japanese patisserie vibe.
 
@@ -37,7 +37,7 @@ A pastel, cake-inspired, light VS Code theme with a modern Japanese patisserie v
 
 ## 🧁 Inspiration
 
-Purddy is inspired by the soft, inviting colors of Japanese cakes and patisseries. It's designed to be both beautiful and highly usable for long coding sessions.
+*purddy* is inspired by the soft, inviting colors of Japanese cakes and patisseries. It's designed to be both beautiful and highly usable for long coding sessions.
 
 ## 📝 License
 

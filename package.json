@@ -1,11 +1,18 @@
 {
   "name": "purddy",
   "displayName": "purddy",
-  "description": "This Theme is Mighty Purddy!",
+  "description": "A pastel, cake-inspired theme with a modern Japanese patisserie vibe",
   "version": "0.0.1",
+  "icon": "icon.png",
+  "author": {
+    "name": "Avital Tamir",
+    "email": "avital@cyphernet.es",
+    "url": "https://github.com/AvitalTamir"
+  },
+  "publisher": "Avital Tamir",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AvitalTamir/Purddy-Color-Theme"
+    "url": "https://github.com/AvitalTamir/vscode-purddy-theme"
   },
   "engines": {
     "vscode": "^1.96.0"
