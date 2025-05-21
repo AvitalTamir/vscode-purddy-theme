@@ -26,6 +26,11 @@
         "label": "Purddy",
         "uiTheme": "vs",
         "path": "./themes/Purddy-color-theme.json"
+      },
+      {
+        "label": "Purddy Light Terminal",
+        "uiTheme": "vs",
+        "path": "./themes/Purddy-light-terminal-color-theme.json"
       }
     ]
   }
